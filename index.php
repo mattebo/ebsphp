@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Simple PHP App</title>
+        <title>Mattebo PHP test</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="web/assets/css/bootstrap.min.css" rel="stylesheet">
         <style>body {margin-top: 40px; background-color: #333;}</style>
@@ -15,8 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h2>This is probably not what you were expecting.</h2>
-                <p>To enjoy the full features from the <code>ebo-demo-php-simple-app</code> sample, you need to go to your Elastic Beanstlk environment, click Configuration and set your app's <strong>Document root</strong> to <strong>web</strong> and redeploy the app. Hurry back to see the real app at work!</p>
+                <h2>Mattebo PHP test.</h2>
             </div>
         </div>
 
